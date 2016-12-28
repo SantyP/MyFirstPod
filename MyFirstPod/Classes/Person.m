@@ -10,4 +10,9 @@
 
 @implementation Person
 
+- (void)showInfo {
+    
+    NSLog(@"XYZ => ABC");
+}
+
 @end

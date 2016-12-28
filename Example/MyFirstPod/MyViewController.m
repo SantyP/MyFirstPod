@@ -7,6 +7,7 @@
 //
 
 #import "MyViewController.h"
+#import <MyFirstPod/Person.h>
 
 @interface MyViewController ()
 
@@ -18,6 +19,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    Person *person = [[Person alloc] init];
+    [person showInfo];
 }
 
 - (void)didReceiveMemoryWarning

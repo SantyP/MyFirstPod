@@ -1,9 +1,9 @@
 {
   "name": "MyFirstPod",
   "version": "0.1.0",
-  "summary": "A short description of MyFirstPod.",
+  "summary": "My First Pod in ObjC.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/MyFirstPod",
+  "homepage": "https://github.com/SantyP/MyFirstPod.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Santy": "vish_santosh85@yahoo.co.in"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/MyFirstPod.git",
+    "git": "https://github.com/SantyP/MyFirstPod.git",
     "tag": "0.1.0"
   },
   "platforms": {

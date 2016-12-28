@@ -10,4 +10,6 @@
 
 @interface Person : NSObject
 
+- (void)showInfo;
+
 @end
